@@ -1,2 +1,2 @@
 ### Biography
-Data Scientists are people who use data to solve problems. They are the people who are able to extract insights from data and use the 
+Data Scientists are people who use data to solve problems. They are the people who are able to extract insights from data and use the insights to make decisions. Data Scientists are the people who are able to use data to solve problems. They are the people who are able to extract insights from data and use the insights to make decisions. 
