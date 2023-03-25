@@ -17,36 +17,17 @@ export default function Footer() {
             floating
             className='m-1'
             style={{ backgroundColor: '#3b5998' }}
-            href='#!'
+            href='https://www.facebook.com/jamestwosemusician'
             role='button'
           >
             <MDBIcon fab icon='facebook-f' />
           </MDBBtn>
-
-          <MDBBtn
-            floating
-            className='m-1'
-            style={{ backgroundColor: '#55acee' }}
-            href='#!'
-            role='button'
-          >
-            <MDBIcon fab icon='twitter' />
-          </MDBBtn>
-
-          <MDBBtn
-            floating
-            className='m-1'
-            style={{ backgroundColor: '#dd4b39' }}
-            href='#!'
-            role='button'
-          >
-            <MDBIcon fab icon='google' />
-          </MDBBtn>
+          
           <MDBBtn
             floating
             className='m-1'
             style={{ backgroundColor: '#ac2bac' }}
-            href='#!'
+            href='https://www.instagram.com/jamestwosemusic/'
             role='button'
           >
             <MDBIcon fab icon='instagram' />
@@ -56,7 +37,7 @@ export default function Footer() {
             floating
             className='m-1'
             style={{ backgroundColor: '#0082ca' }}
-            href='#!'
+            href='https://www.linkedin.com/in/james-twose/'
             role='button'
           >
             <MDBIcon fab icon='linkedin-in' />
@@ -66,7 +47,7 @@ export default function Footer() {
             floating
             className='m-1'
             style={{ backgroundColor: '#333333' }}
-            href='#!'
+            href='https://github.com/jameshtwose'
             role='button'
           >
             <MDBIcon fab icon='github' />
@@ -75,9 +56,9 @@ export default function Footer() {
       </MDBContainer>
 
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
-        © 2020 Copyright:
-        <a className='text-white' href='https://mdbootstrap.com/'>
-          MDBootstrap.com
+        Created by: 
+        <a className='text-white' href='https://services.jms.rocks/'>
+          James Twose
         </a>
       </div>
     </MDBFooter>

@@ -6,7 +6,7 @@ const Header = () => {
     <header>
       <div className="nav-area">
         <Link to="/" className="logo">
-          <img src="https://services.jms.rocks/img/logo.png" alt="JTlogo" width={60} />
+          <img src="https://services.jms.rocks/img/logo.png" alt="JTlogo" width={50} />
         </Link>
         <Navbar />
       </div>
