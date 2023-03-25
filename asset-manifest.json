@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.63cdd050.css",
-    "main.js": "/react-website/static/js/main.82a86750.js",
+    "main.css": "/react-website/static/css/main.a832d8b6.css",
+    "main.js": "/react-website/static/js/main.2e652cda.js",
+    "static/media/fa-solid-900.ttf": "/react-website/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/react-website/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/react-website/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/react-website/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/react-website/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/react-website/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/react-website/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-website/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/react-website/index.html",
-    "main.63cdd050.css.map": "/react-website/static/css/main.63cdd050.css.map",
-    "main.82a86750.js.map": "/react-website/static/js/main.82a86750.js.map"
+    "main.a832d8b6.css.map": "/react-website/static/css/main.a832d8b6.css.map",
+    "main.2e652cda.js.map": "/react-website/static/js/main.2e652cda.js.map"
   },
   "entrypoints": [
-    "static/css/main.63cdd050.css",
-    "static/js/main.82a86750.js"
+    "static/css/main.a832d8b6.css",
+    "static/js/main.2e652cda.js"
   ]
 }
