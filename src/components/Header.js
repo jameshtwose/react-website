@@ -1,4 +1,4 @@
-import Navbar from './Navbar';
+import NavScrollExample from './Navbar';
 import { Link } from 'react-router-dom';
 
 const Header = () => {
@@ -8,7 +8,7 @@ const Header = () => {
         <Link to="/" className="logo">
           <img src="https://services.jms.rocks/img/logo.png" alt="JTlogo" width={50} />
         </Link>
-        <Navbar />
+        <NavScrollExample />
       </div>
     </header>
   );
